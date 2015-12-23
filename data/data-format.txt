@@ -1,0 +1,11 @@
+questions:
+CSV of following fields
+tag_string is space separated
+[tag_string, owner_id, question_id, is_answered, answer_id, answer_count, view_count, score]
+
+tags_questions:
+space separated
+
+answers:
+CSV
+[owner_id, reputation, accept_rate, question_id, is_accepted, answer_id, score]  
